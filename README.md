@@ -3,8 +3,8 @@
 <span style="color: #00ffffc9; font-family: monospace; font-weight: bold;">A turn-based battle arena where you fight an AI opponent that **learns and adapts** using Reinforcement Learning and the Q-Learning algorithm. The more it plays, the smarter it gets.
 </span>
 
->*Find more such projects on my github page- https://github.com/NuclearVenom*
-
+*Developed by [Ranasurya Ghosh](https://github.com/NuclearVenom)*
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue)](./LICENSE)
 
 ---
 
