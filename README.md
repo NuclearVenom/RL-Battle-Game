@@ -120,13 +120,10 @@ On your turn, you choose one of three moves:
 | ⚡ Light Attack | 15 HP | 85% | Reliable, consistent damage |
 | 💥 Heavy Attack | 35 HP | 55% | High risk, high reward |
 | 💊 Heal | +25 HP | 100% | Restores HP, limited to **5 uses** per battle |
+
 Strategy matters. Should you play it safe with light attacks? Gamble on a heavy attack when the opponent is low on health? Save your heals for a desperate moment? The AI is asking itself the exact same questions — and learning the answers over time.
 
-
-
 ---
-
-
 
 ## How the AI Works
 
